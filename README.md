@@ -21,6 +21,17 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+## Changes Made
+
+THERE was a lot of repeat information in the CSS that I consolidated into one class.
+CHANGED the side portion of the site into sideBAR so make it easier to keep track of what that piece of code was controlling.
+GROUPED together the footer to clean up the code.
+PUT alt tags for all of the images.
+MADE all links working to the correct site.
+
+
+
+
 You are required to submit the following for review:
 
 * The URL of the deployed application. 
