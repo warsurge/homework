@@ -28,11 +28,7 @@ CHANGED the side portion of the site into sideBAR so make it easier to keep trac
 GROUPED together the footer to clean up the code.
 PUT alt tags for all of the images.
 MADE all links working to the correct site.
+TOOK out digital-marketing-meeting.jpg out of the CSS and moved it to HTML and added alt tag.
 
 
-
-
-You are required to submit the following for review:
-
-* The URL of the deployed application. 
 
